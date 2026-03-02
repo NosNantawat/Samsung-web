@@ -91,28 +91,29 @@ footer {
   .nav {
     flex-direction: column;
     align-items: center;
-}
+ }
   
   .advisor-box {
     flex-direction: column;
     text-align: center;
-}
+ }
 
   .profile {
   width: 100%;
   max-width: 250px;
-}
+ }
 
   .logo {
     height: 60px;
     margin-bottom: 10px;
-}
+ }
 nav ul {
   flex-direction: column;
   gap: 10px;
-}
+ }
 }
   
+
 
 
 
