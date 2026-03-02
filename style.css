@@ -22,7 +22,7 @@ header {
   align-items:center;
 }
 
-.logo { height:50px; }
+.logo { height:100px; }
 
 nav ul, .nav ul {
   list-style:none;
@@ -79,3 +79,4 @@ footer {
   color:white;
 
 }
+
