@@ -22,7 +22,7 @@ header {
   align-items:center;
 }
 
-.logo { height:100px; }
+.logo { height:50px; }
 
 nav ul, .nav ul {
   list-style:none;
@@ -97,3 +97,4 @@ nav ul {
 }
 }
   
+
