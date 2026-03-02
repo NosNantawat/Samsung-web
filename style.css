@@ -80,3 +80,20 @@ footer {
 
 }
 
+@media (max-width: 768px) {
+  .advisor-box {
+    flex-direction: column;
+    text-align: center;
+}
+
+.profile {
+  width: 100%;
+  max-width: 250px;
+}
+
+nav ul {
+  flex-direction: column;
+  gap: 10px;
+}
+}
+  
